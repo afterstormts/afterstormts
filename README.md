@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://github.com/afterstormts/afterstormts/blob/main/b235ddcb71b2c9fd46d127133ab56ef1.gif)
 <!--
 **afterstormts/afterstormts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
